@@ -1,0 +1,16 @@
+{
+  "name": "web-check-bot",
+  "version": "1.0.0",
+  "description": "If you want to deploy a bot in minutes for review periodically the status of your Web site.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "danielitogomez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "telebot": "^1.4.1"
+  }
+}
